@@ -57,6 +57,7 @@ You'll need to update values in the `.env` file to match your configuration, but
 ## 3. Run the server
 
 ```bash
+bun install
 bun run src/index.ts
 ```
 
